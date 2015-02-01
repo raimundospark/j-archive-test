@@ -1,0 +1,8 @@
+*.db
+*.db-journal
+
+*.pdf
+*.bak
+*.py[co]
+
+j-archive
